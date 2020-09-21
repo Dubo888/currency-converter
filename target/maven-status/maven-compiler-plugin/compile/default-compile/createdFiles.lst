@@ -1,0 +1,10 @@
+com\liveedu\currencyconverter\models\ConversionCurrency.class
+com\liveedu\currencyconverter\controllers\CurrencyConverterController.class
+com\liveedu\currencyconverter\controllers\CurrencyConverterWebController.class
+com\liveedu\currencyconverter\services\CurrencyService.class
+com\liveedu\currencyconverter\models\CurrencyDTO.class
+com\liveedu\currencyconverter\configurations\RedisConfiguration.class
+com\liveedu\currencyconverter\CurrencyConverterApplication.class
+com\liveedu\currencyconverter\repositories\CurrencyRepository.class
+com\liveedu\currencyconverter\models\Currency.class
+com\liveedu\currencyconverter\tasks\CurrencyTask.class

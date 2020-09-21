@@ -1,0 +1,10 @@
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\controllers\CurrencyConverterController.java
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\CurrencyConverterApplication.java
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\models\Currency.java
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\repositories\CurrencyRepository.java
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\configurations\RedisConfiguration.java
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\models\ConversionCurrency.java
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\services\CurrencyService.java
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\models\CurrencyDTO.java
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\controllers\CurrencyConverterWebController.java
+C:\Users\rokas\IdeaProjects\-CurrencyConverter-\curcon\liveedu-currency-converter\src\main\java\com\liveedu\currencyconverter\tasks\CurrencyTask.java
