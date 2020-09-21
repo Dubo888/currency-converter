@@ -1,8 +1,7 @@
 Currency converter
 -----------------------------------------------------------
 
-I'm going to make a web application with Spring Boot 2.0 for the backend and Bootstrap and Jquery for the frontend. Junit and mockito were using to make unit and integration tests.
-The idea is simple, to convert a given value from a currency to another.
+I'm going to make a web application with Spring Boot for the backend and Bootstrap and Jquery for the frontend. The idea is simple, to convert a given value from a currency to another.
 
 How to run the project:
 -----------------------
