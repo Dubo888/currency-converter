@@ -17,5 +17,9 @@ On a separate terminal and since this is a maven project you just need to go to 
 
 This will run the tests and create the jar file.
 
+After having the jar file you can simply run:
+
+java -jar target/currency-converter-0.0.1-SNAPSHOT.jar
+
 By default the project will run on port 8080.
 
